@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Linux - Bomba fork 
+title: Fundamentos de Programacion c++ - Ejercicios 
 excerpt: "**Ejercicio 1 (40pts)**
 
 Considere el struct atleta { string nombre; int numero, país; hh,mm,ss; } entre
