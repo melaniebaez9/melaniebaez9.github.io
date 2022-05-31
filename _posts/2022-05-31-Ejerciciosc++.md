@@ -16,7 +16,7 @@ puntajes que lograron sus 2 participantes. La prueba otorga 20 puntos al ganador
 segundo, 11 puntos al tercero, 8 puntos al cuarto y 5 puntos al quinto. Utilice la función extraer_mejor
 5 veces para obtener los 5 primeros. Para el resto, se otorga 1 punto si el competidor finalizó la
 prueba y 0 si debió abandonar. En caso de empate entre dos o más países, solo debe informarlo con
-un mensaje alusivo.
+un mensaje alusivo."
 
 date: 2022-05-29
 classes: wide
