@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Fundamentos de Programacion c++ - Ejercicios 
-excerpt: "**Ejercicio 1 (40pts)**
+title: Fundamentos de Programacion C++
+excerpt: "**Ejercicios**
 
 Considere el struct atleta { string nombre; int numero, país; hh,mm,ss; } entre
 cuyos miembros se define el tiempo empleado en una prueba de ciclismo en la que competían 10
@@ -32,7 +32,7 @@ tags:
 
 ![](/assets/images/EjerciciosC++/Ejercicio1.png )
 
-## Ejercicio 1 por 40pts 
+## Ejercicio 1  
 
 Considere el struct atleta { string nombre; int numero, país; hh,mm,ss; } entre
 cuyos miembros se define el tiempo empleado en una prueba de ciclismo en la que competían 10
