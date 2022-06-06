@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ema"
+title                    : "melanie"
 title_separator          : "-"
-name                     : "Ema"
+name                     : "melanie"
 description              : "Linux y Programacion"
 url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :  "EmaBianco1948"
+  username               :  "melanie999"
 facebook:
   username               :  
   app_id                 :
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ema Blanco"
+  name             : "melaniebaez"
   avatar           : "/assets/images/anime-akame-ga-kill.gif"
   bio              : "C++, Python, <br>Linux"
   location         : "Argentina, Santa Fe"
-  email            : "emanuelblanco.073@gmail.com"
+  email            : "melaniebaez0503@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,11 +114,11 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "emablanco"
-  gitlab           : "emablanco"
+  github           : "melanie"
+  gitlab           : "melanie"
   google_plus      :
   keybase          : 
-  instagram        : "emaa.maker"
+  instagram        : ""
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "EmaBianco1948"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
